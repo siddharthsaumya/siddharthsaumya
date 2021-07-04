@@ -1,4 +1,4 @@
-## Hello, I am siddharth 👋
+## **Hello, I am siddharth 👋**
 I am a tech and buisness enthusiast, specially computers, phones and cars facinates me. Have been trying to learn new skills and create awesome stuff.
  
 - 🌱 I’m currently learning ...
