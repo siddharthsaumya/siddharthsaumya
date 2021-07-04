@@ -1,11 +1,18 @@
 ## **Hello, I am siddharth 👋**
 I am a tech and buisness enthusiast, specially computers, phones and cars facinates me. Have been trying to learn new skills and create awesome stuff.
 
-## **I am learning🌱**
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+## **Skills on my list🌱**
+- [x] C/C++
+- [x] Data structure and alogirthm
+- [x] FullStack web development + MERN
+- [x] Java + Object Oriented Programming 
+- [x] Andriod development (Java)
+- [ ] Python
+- [ ] Cryptography
+- [ ] Machine Learning
+- [ ] AI
+- [ ] Blockchain
+- [ ] AR
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
