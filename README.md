@@ -14,7 +14,7 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [ ] Blockchain
 - [ ] AR
 
-## **👯 I’m wish to connect with people who*
+## **👯 I’m wish to connect with people who**
 * Have some real life skill
 * Desire to be extra from normal
 * Want to make some difference
