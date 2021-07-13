@@ -7,7 +7,7 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [x] FullStack web development + MERN
 - [x] Java + Object Oriented Programming 
 - [x] Andriod development (Java)
-- [ ] Python
+- [X] Python
 - [ ] Cryptography
 - [ ] Machine Learning
 - [ ] AI
