@@ -14,11 +14,11 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [ ] Blockchain
 - [ ] AR
 
-## **👯 I’m looking for people who**
+## **👯 I’m wish to connect with people who*
 * Have some real life skill
-* Desire to start there own buisness
+* Desire to be extra from normal
 * Want to make some difference
-* Ready to give there 100%
+* Enthusisatic about there specialization
 
 
 ## **Connect with me on 📫**
