@@ -22,6 +22,6 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 
 ## **Connect with me on 📫**
 [Email 📧](sidmya@gmail.com) <br />
-[LinkdIn 💼](https://www.linkedin.com/in/siddharth-saumya/) <br />
+[LinkedIn 💼](https://www.linkedin.com/in/siddharth-saumya/) <br />
 [Twitter 🐤](https://twitter.com/siddharthsaumya) <br />
 [Instagram 📷](https://www.instagram.com/thesiddharthsaumya/)
