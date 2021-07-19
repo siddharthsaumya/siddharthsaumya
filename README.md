@@ -12,7 +12,6 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [ ] Machine Learning
 - [ ] AI
 - [ ] Blockchain
-- [ ] AR
 
 ## **👯 I’m wish to connect with people who**
 * Have some real life skill
