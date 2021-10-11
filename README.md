@@ -8,7 +8,6 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [x] Java + Object Oriented Programming 
 - [x] Andriod development (Java)
 - [X] Python
-- [ ] Cryptography
 - [ ] Machine Learning
 - [ ] AI
 - [ ] Blockchain
