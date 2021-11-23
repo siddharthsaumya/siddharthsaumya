@@ -12,11 +12,9 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [ ] AI
 - [ ] Blockchain
 
-## **👯 I’m wish to connect with people who**
+## **👯 I wish to connect with people who**
 * Have some real life skill
-* Desire to be extra from normal
-* Want to make some difference
-* Enthusisatic about there specialization
+* L❤️ve food
 
 
 ## **Connect with me on 📫**
