@@ -12,11 +12,6 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [ ] AI
 - [ ] Blockchain
 
-## **👯 I wish to connect with people who**
-* Have some real life skill
-* L❤️ve food
-
-
 ## **Connect with me on 📫**
 [Email 📧](sidmya@gmail.com) <br />
 [LinkedIn 💼](https://www.linkedin.com/in/siddharth-saumya/) <br />
