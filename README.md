@@ -8,8 +8,8 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [x] Java
 - [x] Andriod development (Java)
 - [X] Python
+- [X] Firebase
 - [ ] Machine Learning
-- [ ] AI
 - [ ] Blockchain
 
 ## **Connect with me on 📫**
