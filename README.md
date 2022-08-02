@@ -5,7 +5,6 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [x] C/C++
 - [x] Data structure and alogirthm
 - [x] FullStack web development (MERN)
-- [x] Java
 - [x] Andriod development (Java)
 - [X] Python
 - [X] Firebase
