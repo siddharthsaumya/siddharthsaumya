@@ -9,7 +9,7 @@ I'm a tech and buisness enthusiast, specially computers, phones and cars facinat
 - [x] Andriod development (Java)
 - [X] Python
 - [X] Firebase
-- [ ] Machine Learning
+- [x] Machine Learning
 - [ ] Blockchain
 
 ## **Connect with me on 📫**
