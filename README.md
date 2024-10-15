@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Full-Stack Developer and tech enthusiast passionate about building innovative solutions. With a Bachelor's degree in Computer Science, I thrive on learning and exploring new technologies to expand my skill set.
 
 ## Skills 🚀
-- **Languages:** C++, Python, C#, Typescript, Java
+- **Languages:** C++, Python, C#, Javascrpt, Typescript, Java
 - **Databases:** Microsoft SQL Server, Firestore, MongoDB
 - **Frameworks:** ReactJS, ASP .NET
 - **Tools & Technologies:** Azure DevOps, Git, Figma
